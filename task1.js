@@ -31,3 +31,4 @@ const searchMethods = (text) => {
 };
 
 console.log("task5:",searchMethods(text))
+
